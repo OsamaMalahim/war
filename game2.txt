@@ -1,1 +1,3 @@
 text changed for 2 commit
+
+adding feature 1
